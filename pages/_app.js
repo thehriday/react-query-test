@@ -20,6 +20,6 @@ export default function App({ Component, pageProps }) {
 
 //1.  Show all post [done]
 //2.  Show single post with user [done]
-//3.  Create a new post
+//3.  Create a new post [working]
 //4.  Update a post
 //5.  Delete a ost
